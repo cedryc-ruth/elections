@@ -10,5 +10,6 @@ Application Java en mode Console qui permet de :
 * déterminer la liste gagnante des élections.
 
 ## Installation
+Télécharger l'archive du dépot.
 
 ## Utilisation
